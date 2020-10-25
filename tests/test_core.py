@@ -1,8 +1,8 @@
-import sys
-sys.path.append('C:/Users/raffy/Desktop/temp/sqr/sq')
+# import sys
+# sys.path.append('C:/Users/raffy/Desktop/temp/sqr/sq')
 import unittest
 
-from core import square
+from sq.core import square
 
 class TestCore(unittest.TestCase):
     """Unittest for core module"""
