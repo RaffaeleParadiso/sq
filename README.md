@@ -1,2 +1,2 @@
 # sq
-[![Build Status](https://travis-ci.org/RaffaeleParadiso/sq.svg?branch=master)](https://travis-ci.org/RaffaeleParadiso/sq)
+[![Build Status](https://travis-ci.com/RaffaeleParadiso/sq.svg?token=q6Wzdcdq1UgqLXg9X5ep&branch=main)
